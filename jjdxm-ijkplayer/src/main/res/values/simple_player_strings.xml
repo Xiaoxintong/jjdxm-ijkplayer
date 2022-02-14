@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ijkplayer_simple</string>
+    <string name="giraffe_player_url_empty">请指定播放视频的地址</string>
+    <string name="small_problem">网络连接失败,请检查网络\n即将尝试切换下一条线路</string>
+    <string name="can_not_play">不能播放此视频</string>
+    <string name="not_support">播放器不支持此设备</string>
+</resources>
