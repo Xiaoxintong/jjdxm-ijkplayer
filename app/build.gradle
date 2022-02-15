@@ -17,10 +17,6 @@ android {
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
-
-        manifestPlaceholders = [
-                BAIDU_MAP_AK           : "3T7jAo9uyz8wZ0VZavkdEfGPhKKB2HFE"
-        ]
     }
     buildTypes {
         release {
