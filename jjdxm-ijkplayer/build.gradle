@@ -82,9 +82,10 @@ dependencies {
     api 'tv.danmaku.ijk.media:ijkplayer-java:0.8.8'
 //    implementation(name: 'commons-release-20220214', ext: 'aar')
     // 保利威里用到了ijkplayer，他们可能改了点东西或者版本更高，用他们的，上课才正常，我们的课程也正常
-//    api 'tv.danmaku.ijk.media:ijkplayer-armv7a:0.8.8'
+    // 20220525 赵伟在微信里让去掉保利威，所以恢复这里
+    api 'tv.danmaku.ijk.media:ijkplayer-armv7a:0.8.8'
 //    api 'tv.danmaku.ijk.media:ijkplayer-armv5:0.8.8'
-//    api 'tv.danmaku.ijk.media:ijkplayer-arm64:0.8.8'
+    api 'tv.danmaku.ijk.media:ijkplayer-arm64:0.8.8'
 //    api 'tv.danmaku.ijk.media:ijkplayer-x86:0.8.8'
 //    api 'tv.danmaku.ijk.media:ijkplayer-x86_64:0.8.8'
 }
