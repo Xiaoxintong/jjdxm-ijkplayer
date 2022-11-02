@@ -38,6 +38,7 @@
         android:layout_margin="10dp"
         android:layout_alignParentRight="true"
         android:layout_marginTop="8dp"
-        android:src="@drawable/iv_screen_projection"/>
+        android:src="@drawable/iv_screen_projection"
+        android:visibility="gone"/>
 
 </LinearLayout>
